@@ -4,6 +4,8 @@
 
 Removes the sound for eating and drinking, which can be changed in the config file.
 
+This mod is for the users that have misophonia.
+
 # Configuration
 
 The configuration file will be created on the first game run and can be found at `%AppData%\..\LocalLow\Magnum Scriptum Ltd\Quasimorph\QM_SilentFood\config.json`.
