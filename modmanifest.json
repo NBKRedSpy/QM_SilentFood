@@ -1,0 +1,7 @@
+{
+  "UniqueModName": "NBKRedSpy_QM_SilentFood",
+  "Assemblies": [
+    "QM_SilentFood.dll"
+  ],
+  "Dependencies": []
+}
