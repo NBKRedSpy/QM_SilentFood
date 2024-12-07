@@ -7,7 +7,7 @@ This mod is for the users that have misophonia.
 
 [h1]Configuration[/h1]
 
-The configuration file will be created on the first game run and can be found at [i]%AppData%\..\LocalLow\Magnum Scriptum Ltd\Quasimorph\QM_SilentFood\config.json[/i].
+The configuration file will be created on the first game run and can be found at [i]%AppData%\..\LocalLow\Magnum Scriptum Ltd\Quasimorph_ModConfigs\QM_SilentFood\config.json[/i].
 [table]
 [tr]
 [td]Name
@@ -43,6 +43,13 @@ Thanks!
 [h1]Source Code[/h1]
 
 Source code is available on GitHub at https://github.com/NBKRedSpy/QM_SilentFood
+
+[h1]Change Log[/h1]
+
+[h2]1.1.0[/h2]
+[list]
+[*]Moved config file directory.
+[/list]
 
 [h1]Credits[/h1]
 
