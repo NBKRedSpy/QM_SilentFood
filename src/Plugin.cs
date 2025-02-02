@@ -17,8 +17,6 @@ namespace QM_SilentFood
 
         public static ModConfig Config { get; private set; }
 
-        public static bool IsInited { get; set; }
-
         [Hook(ModHookType.AfterConfigsLoaded)]
         public static void AfterConfig(IModContext context)
         {
