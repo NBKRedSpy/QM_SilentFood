@@ -46,6 +46,11 @@ Source code is available on GitHub at https://github.com/NBKRedSpy/QM_SilentFood
 
 [h1]Change Log[/h1]
 
+[h2]1.2.1[/h2]
+[list]
+[*]Fix: A null audio clip would cause a soft lock.
+[/list]
+
 [h2]1.2.0[/h2]
 [list]
 [*]v0.8.5 compatible.

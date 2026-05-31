@@ -24,9 +24,7 @@ namespace QM_SilentFood
 
         public static bool Prefix(AudioClip clip)
         {
-
-            //Debug.LogWarning($"Audio Clip {clip.name}");
-
+            if(clip == null) return true;   //Run the original.  It will exit, but this is technically more compatible.
 
             if(SilentAudio.TryGetValue(clip.name, out bool isEating))
             {
